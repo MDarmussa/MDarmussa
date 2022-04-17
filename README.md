@@ -10,7 +10,7 @@
 - Looking for an entry level or Internship in software engineering
 - 👨‍💻 All of my projects & skills are available at https://mdarmussa.com/
 - 💬 Ask me about "JavaScript, SQL, Python, React"
-- 📫 How to reach me m.darmussa@gmail.com
+- 📫 How to reach out to me m.darmussa@gmail.com
 - 📄 Know about my experiences https://mdarmussa.com/resume/DarmussaResume.pdf
 - ⚡ Fun fact I like Sky Diving!
 
