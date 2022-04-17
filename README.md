@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm "Awesome Builder"</h1>
-<h3 align="center">A passionate Full-Stack developer from "Houston"</h3>
+<h3 align="center">A passionate Full-Stack developer from Houston</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nathannosudo&label=Profile%20views&color=0e75b6&style=flat" alt="nathannosudo" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nathannosudo" alt="nathannosudo" /></a> </p>
 
