@@ -5,9 +5,6 @@
 
 
 - 🌱 I’m currently learning Full-Stack Development @ Digitalcrafts
-import Iconify from '@iconify/iconify';
-
-
 - Looking for an entry level or Internship in software engineering
 - 👨‍💻 All of my projects & skills are available at https://mdarmussa.com/
 - 💬 Ask me about "JavaScript, SQL, Python, React"
