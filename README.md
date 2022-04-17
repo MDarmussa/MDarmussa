@@ -25,8 +25,8 @@ import Iconify from '@iconify/iconify';
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/55/000000/javascript.png" alt="nosudo_" height="30" width="40" /></a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/55/000000/javascript.png" height="30" width="40" /></a> 
+    <a href="https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks" target="blank"><img align="center" src="https://img.icons8.com/ios-filled/55/000000/javascript.png" alt="nosudo_" height="30" width="40" /></a>
+
 
 </p>
 
