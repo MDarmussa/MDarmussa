@@ -19,6 +19,14 @@
   <a href="https://www.linkedin.com/in/mdarmussa/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin username" height="30" width="40" /></a>
   <a href="https://twitter.com/mussa_mhamed" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="nosudo_" height="30" width="40" /></a>
   <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="30" width="40" /></a> 
+  <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="30" width="40" /></a> 
+ </p>
+ 
+ 
+<p align="left">
+  <h3 align="left">Actively Practicing:</h3>
+  <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="30" width="40" /></a> 
+  <a href="https://www.freecodecamp.org/fcc316da9ff-cd1e-4883-acee-347834496172" target="blank"><img align="center" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="30" width="40" /></a> 
  </p>
 
 
