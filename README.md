@@ -22,8 +22,5 @@
  </p>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDarmussa&layout=compact" alt="MDarmussa" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nathannosudo&layout=compact" alt="nathannosudo" /></p>
 
-[![Github Stats By Mohammad](https://github-readme-stats.vercel.app/api?username=NathanNoSudo&theme=radical&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
