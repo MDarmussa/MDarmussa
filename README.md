@@ -17,7 +17,8 @@
   
   <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin username" height="30" width="40" /></a>
   
-  <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" src="https://code.iconify.design/2/2.2.1/iconify.min.js" alt="linkedin username" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/linkedin username" target="blank"><img align="center" <script src="https://code.iconify.design/2/2.2.1/iconify.min.js"></script>
+  height="30" width="40" /></a>
 
   
   
