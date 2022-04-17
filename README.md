@@ -25,7 +25,7 @@ import Iconify from '@iconify/iconify';
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
+  </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/ios-filled/55/000000/javascript.png" alt="xd" width="40" height="40"/> </a>
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
@@ -38,82 +38,3 @@ import Iconify from '@iconify/iconify';
   </a> <a href="https://www.adobe.com/products/xd.html" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a>
 </p>
 
-               <div class="row aln-center">
-                    <div class="col-11 col-6-medium col-12-small">
-                         <section class="box style1">
-                              <h3>Languages, Frameworks and Project + Product Management</h3>
-                              <div class="icons-wrapper column">
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/ios-filled/55/000000/javascript.png" />
-                                        <p>JavaScript</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/55/000000/nodejs.png" />
-                                        <p>Node.js</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img
-                                             src="https://img.icons8.com/external-tal-revivo-fresh-tal-revivo/55/000000/external-nodejs-is-an-open-source-cross-platform-javascript-run-time-environment-logo-fresh-tal-revivo.png" />
-                                        <p>Express.js</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/external-outline-juicy-fish/50
-                                        /000000/external-sql-coding-and-development-outline-outline-juicy-fish.png" />
-                                        <p>SQLDatabase</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/48/000000/postgreesql.png" />
-                                        <p>PostgreSQL</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/55/000000/python--v1.png" />
-                                        <p>Python</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/ios-filled/50/000000/api-settings.png"/>
-                                        <p>Rest API</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/ios-filled/55/000000/html-5--v1.png" />
-                                        <p>HTML5</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/55/000000/css3.png" />
-                                        <p>CSS3</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/officel/55/000000/react.png"/>
-                                        <p>React</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/ios-filled/55/000000/git.png" />
-                                        <p>Git</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/glyph-neue/55/000000/github.png" />
-                                        <p>Github</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/ios-filled/50/000000/command-line.png" />
-                                        <p>Cmd.exe</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/55/000000/bootstrap.png" />
-                                        <p>Bootstrap</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/cute-clipart/55/000000/canva-app.png" />
-                                        <p>Canva</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/fluency/55/000000/visual-studio-2019.png" />
-                                        <p>VS Code</p>
-                                   </div>
-                                   <div class="skills-icons">
-                                        <img src="https://img.icons8.com/color/55/000000/trello.png" />
-                                        <p>Trello</p>
-                                   </div>
-                              </div>
-                         </section>
-                    </div>
-               </div> 
