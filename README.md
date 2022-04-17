@@ -24,5 +24,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDarmussa&layout=compact" alt="MDarmussa" /></p>
 
- <p> ![MDarmussa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDarmussa&show_icons=true&theme=radical)</p>
+![MDarmussa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDarmussa&show_icons=true&theme=radical)
 
