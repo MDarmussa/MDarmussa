@@ -24,4 +24,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MDarmussa&layout=compact" alt="MDarmussa" /></p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![MDarmussa's GitHub stats](https://github-readme-stats.vercel.app/api?username=MDarmussa)](https://github.com/MDarmussa/github-readme-stats)
