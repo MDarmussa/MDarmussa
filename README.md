@@ -20,24 +20,5 @@ import Iconify from '@iconify/iconify';
   
   <a href="https://www.linkedin.com/in/mdarmussa/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin username" height="30" width="40" /></a>
   <a href="https://twitter.com/mussa_mhamed" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="nosudo_" height="30" width="40" /></a>
-  <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="30" width="40" /></a>
-
-
-  
-  
-  
+  <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="30" width="40" /></a> 
  </p>
-
-
-
-
-
-
-### Hi there 👋
-
-- 🌱 I’m currently learning Full-Stack Development @ Digitalcrafts
-- Looking for an entry level or Internship in software engineering
-- 💬 Ask me about my resume and my progress in the bootcamp
-- 📫 reach me @ m.darmussa@gmail.com
-- My portfolio website https://mdarmussa.com/
-- Linkedin https://www.linkedin.com/in/mdarmussa/
