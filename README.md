@@ -17,7 +17,7 @@
 <p align="left">
   <h3 align="left">Connect with me:</h3>
   <a href="https://www.linkedin.com/in/mdarmussa/" target="blank"><img align="center" src="https://img.icons8.com/external-justicon-flat-justicon/64/000000/external-linkedin-social-media-justicon-flat-justicon.png" alt="linkedin username" height="30" width="40" /></a>
-  <a href="https://twitter.com/mussa_mhamed" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="nosudo_" height="30" width="40" /></a>
+  <a href="https://twitter.com/mussa_mhamed" target="blank"><img align="center" src="https://img.icons8.com/color/48/000000/twitter--v1.png" alt="nosudo_" height="30" width="45" /></a>
 </p>
  
  
