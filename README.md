@@ -24,7 +24,7 @@
 <p align="left">
   <h3 align="left">Actively Practicing:</h3>
   <a href="https://www.codewars.com/users/MDarmussa" target="blank"><img align="center" src="https://cloud.githubusercontent.com/assets/2475572/4743290/2dcf20cc-5a26-11e4-89fb-62b861e5b29c.png" height="45" width="50" /></a> 
-<!--   <a href="https://www.freecodecamp.org/fcc316da9ff-cd1e-4883-acee-347834496172" target="blank"><img align="center" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="50" width="60" /></a>  -->
+  <a href="https://www.freecodecamp.org/fcc316da9ff-cd1e-4883-acee-347834496172" target="blank"><img align="center" src="https://img.icons8.com/external-parzival-1997-flat-parzival-1997/64/000000/external-software-developer-digital-asset-and-intangible-product-parzival-1997-flat-parzival-1997.png" height="50" width="60" /></a> 
  </p>
 
 
