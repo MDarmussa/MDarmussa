@@ -6,8 +6,7 @@
 <p align="left"> <a href="https://github.com/MDarmussa"><img src="https://github-profile-trophy.vercel.app/?username=MDarmussa" alt="MDarmussa" /></a> </p>
 
 
-- 🌱 I’m currently learning Full-Stack Development @ Digitalcrafts
-- Looking for an entry level or Internship in software engineering
+- 🌱 I’m certified in Full-Stack Development @ Digitalcrafts
 - 👨‍💻 All of my projects & skills are available at https://mdarmussa.com/
 - 💬 Ask me about "JavaScript, SQL, Python, React"
 - 📫 Reach out to me m.darmussa@gmail.com
