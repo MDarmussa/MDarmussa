@@ -8,9 +8,9 @@
 
 - 🌱 I’m certified in Full-Stack Development @ Digitalcrafts
 - 👨‍💻 All of my projects & skills are available at https://mdarmussa.com/
-- 💬 Ask me about "JavaScript, SQL, Python, React"
+- 💬 Ask me about "JavaScript, SQL, Python, React & Redux"
 - 📫 Reach out to me m.darmussa@gmail.com
-- 📄 Know about my experiences https://mdarmussa.com/resume/DarmussaResume.pdf
+- 📄 Know about my experiences https://mdarmussa.com/DarmussaResume.pdf
 - ⚡ Fun fact I like Sky Diving!
 
 <p align="left">
